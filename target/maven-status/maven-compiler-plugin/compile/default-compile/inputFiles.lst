@@ -1,0 +1,15 @@
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/StarterWebApplication.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/controller/model/csv/CatalogCsv.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/controller/model/api/CatalogProductResponse.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/repository/entity/CatalogEntity.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/controller/model/api/Catalog.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/service/impl/CatalogServiceImpl.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/scheduler/helper/CatalogConstant.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/controller/model/api/CatalogProductRequest.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/component/ApplicationProperties.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/scheduler/CatalogScheduler.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/repository/CatalogRepository.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/mapper/CatalogMapper.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/controller/CatalogController.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/service/CatalogService.java
+/home/leonard/Documentos/Proyectos/zara-catalog/src/main/java/com/zara/catalog/CatalogApplication.java
